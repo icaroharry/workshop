@@ -1,0 +1,6 @@
+{
+  "name": "workshop",
+  "dependencies": {
+    "bootstrap": "3.0.1"
+  }
+}
